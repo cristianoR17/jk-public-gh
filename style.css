@@ -1,0 +1,21 @@
+body{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background: rgb(24, 27, 30);
+    text-align: center;
+    font-size: 20px;    
+}
+
+h1{
+    padding-top: 50px ;
+    color: rgb(11, 237, 105);
+    transition: 4s;
+    font-family: roboto mono;    
+}
+
+h2{
+    color: rgb(11, 237, 105);
+    transition: 5s;
+    font-family: roboto mono;
+}
